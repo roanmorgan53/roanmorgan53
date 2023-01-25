@@ -13,4 +13,3 @@ I'm a Computer Science Student learning C++ as well as working on Web Developmen
 #### 🌐 How to reach me:
 - Gmail
   - <roanmorgan04@gmail.com>
-<hr />
