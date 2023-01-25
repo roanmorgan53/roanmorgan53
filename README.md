@@ -1,26 +1,16 @@
-### ✌ Yo, I'm Roan Morgan
+### Hey, I'm Roan Morgan
 
-I'm a Computer Science Student learning the basics of C++ as well as the foundations to many other programming languages.
+I'm a Computer Science Student learning C++ as well as working on Web Development projects in my own time.
 <hr />
 
 #### 🤓 I’m currently learning: 
 - C++ 
 - Python
 - HTML5
-- Minecraft Mining Turtles
+- Node Js
 <hr />
 
 #### 🌐 How to reach me:
 - Gmail
   - <roanmorgan04@gmail.com>
-<hr />
-
-#### 💬 Ask me about:
-- My twitch stream: [PanTheMan](https://twitch.tv/pantheman_)
-<hr />
-
-#### 🏋️‍♂️ Fun fact:
-- 225 Bench Press
-- 330 Parallel Squat
-- 225 Power Clean
 <hr />
