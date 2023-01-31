@@ -20,4 +20,4 @@ I'm a Computer Science Student learning C++ as well as working on Web Developmen
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roanmorgan53&layout=compact)](https://github.com/roanmorgan53/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roanmorgan53&layout=compact&theme=dark)](https://github.com/roanmorgan53/github-readme-stats)
