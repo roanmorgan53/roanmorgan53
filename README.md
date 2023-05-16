@@ -1,9 +1,9 @@
-### Hey, I'm Roan Morgan
+### Roan Morgan
 
-I'm a Computer Science Student learning C++ as well as working on Web Development projects in my own time.
+CSCI Student
 <hr />
 
-#### 🤓 I’m currently learning: 
+#### learning: 
 - C++ 
 - Python
 - HTML5
