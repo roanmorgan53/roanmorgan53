@@ -1,6 +1,4 @@
-### Roan Morgan
-
-CSCI Student
+##CSCI Student
 #### learning: 
 - C++ 
 - Python
