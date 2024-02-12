@@ -2,8 +2,8 @@
 #### learning: 
 - C++ 
 - Python
-- HTML5
-- Node Js
+- Javascript
+- HTML/CSS
 #### 🌐 How to reach me:
 - Gmail
   - <roanmorgan04@gmail.com>
