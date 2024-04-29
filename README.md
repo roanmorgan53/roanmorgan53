@@ -1,7 +1,7 @@
 # 👨‍💻 Roan Morgan 
 ***`Computer Science Student `*** 
 <p>
-    Im an aspiring computer science student looking to work on technology and systems that influence the physical world around us.
+    I am an aspiring computer science student looking to work on technology and systems that influence the physical world around us.
 </p>
 
 ---
