@@ -1,7 +1,7 @@
 # 👨‍💻 Roan Morgan 
 ***`Computer Science Student `*** 
 <p>
-    I am an aspiring computer science student looking to work on technology and systems that influence the physical world around us.
+    Student with a growing interest in utilizing computer vision and machine learning in order to solve problems in science and engineering.
 </p>
 
 ---
