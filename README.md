@@ -1,23 +1,10 @@
-# 👨‍💻 Roan Morgan 
+# Roan Morgan 
 ***`Computer Science Student `*** 
 <p>
-    Student with a growing interest in utilizing computer vision and machine learning in order to solve problems in science and engineering.
+    CS student with a growing interest in utilizing computer vision and machine learning in order to solve problems in science and engineering.
 </p>
 
 ---
-
-### 💻 Languages & Tools
-
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<br />
-<br />
-<hr>
-
-### 🧮 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roanmorgan53&layout=compact&theme=dark)](https://github.com/roanmorgan53/github-readme-stats)
 
