@@ -1,5 +1,4 @@
 # Roan Morgan 
-***`Computer Science Student `*** 
 <p>
     CS student with a growing interest in utilizing computer vision and machine learning in order to solve problems in science and engineering.
 </p>
